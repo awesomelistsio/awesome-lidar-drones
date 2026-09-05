@@ -1,4 +1,4 @@
-# Awesome Lidar for Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Lidar for Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -68,10 +68,10 @@ Lidar-equipped drones are used in applications such as surveying, mapping, fores
 
 ## Related Awesome Lists
 
-- **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers)**
-- **[Awesome UAV Flight Test Planning](https://github.com/awesomelistsio/awesome-uav-flight-test-planning)**
-- **[Awesome Aerospace Engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering)**
-- **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)**
+- **[Awesome Drone Engineers](https://github.com/brandonhimpfen/awesome-drone-engineers)**
+- **[Awesome UAV Flight Test Planning](https://github.com/brandonhimpfen/awesome-uav-flight-test-planning)**
+- **[Awesome Aerospace Engineering](https://github.com/brandonhimpfen/awesome-aerospace-engineering)**
+- **[Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)**
   
 ## Contribute
 
